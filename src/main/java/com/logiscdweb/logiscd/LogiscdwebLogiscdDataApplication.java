@@ -1,4 +1,4 @@
-package com.logiscdweb.logiscdweblogiscddata;
+package com.logiscdweb.logiscd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
